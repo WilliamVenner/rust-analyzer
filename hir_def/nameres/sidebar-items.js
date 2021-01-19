@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ModuleOrigin",""],["ModuleSource",""]],"struct":[["DefMap","Contains all top-level defs from a macro-expanded crate"],["ModuleData",""]]});
